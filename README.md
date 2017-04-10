@@ -36,3 +36,7 @@ handler.mix();
 handler.bruteForceFront();
 handler.bruteForceFull();
 ```
+
+# Run time
+
+Run times are pretty much random. But for a `bruteForceFront()` call it takes about 3-5seconds. I have only run `bruteForceFull()` once, and it took 53min and 15sec
